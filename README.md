@@ -1,20 +1,26 @@
-# The SaaS that Union Music is using
+# The Tech Stacks that Union Music is using
 
-Last update: 2019 July
+Last update: 2020 Nov
 
-Here are the list of SaaS that we are using.
+Here are the list of tech or services that we are using.
 
 If you know any tools better than that, please feel free to let us know!
 
+
 Features | Using | Alternative
 --- | --- | ---
-Blog | Ghost |
-DNS | DNSPod |
+API Develop | Laravel, Typescript, Python
+Blog | Hugo |
+DNS | AliDNS, DNSPod |
 CDN | UpYun, Tencent Cloud |
+Cloud Service Provider | Tencent Cloud
 Cloud Storage | Tencent Cloud |
 Code Coverage | codecov.io | 
-Communication | Slack, Microsoft Teams | Telegram
-Continuous Integration | GitHub Action, Travis |
+Communication | Slack, Zoom | Telegram
+Continuous Integration | GitHub Action |
+Front End | Typescript, Sass, Webpack, Yarn, Redux, Rxjs, React
+Infrastructure | Kubernetes, Ubuntu, MySQL, Redis, Docker, Serverless
+Infrastructure as Code | Terrafrom, Ansible
 Source Code Control | GitHub | 
 Ticket Tracking | GitHub, Jira
 
