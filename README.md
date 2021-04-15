@@ -19,7 +19,7 @@ Code Coverage | codecov.io |
 Communication | Slack, Zoom | Telegram
 Continuous Integration | GitHub Action |
 Front End | Typescript, Sass, Webpack, Yarn, Redux, Rxjs, React
-Infrastructure | Kubernetes, Ubuntu, MySQL, Redis, Docker, Serverless
+Infrastructure | Kubernetes, Ubuntu, MySQL, PostgreSQL, Redis, Docker, Serverless
 Infrastructure as Code | Terrafrom, Ansible
 Source Code Control | GitHub | 
 Ticket Tracking | GitHub, Jira
