@@ -9,7 +9,7 @@ If you know any tools better than that, please feel free to let us know!
 
 Features | Using | Alternative
 --- | --- | ---
-API Develop | Laravel, Typescript, Python
+API Develop | Typescript, NestJS
 Blog | Hugo |
 DNS | AliDNS, DNSPod |
 CDN | UpYun, Tencent Cloud |
