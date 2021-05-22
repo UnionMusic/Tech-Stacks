@@ -10,19 +10,19 @@ If you know any tools better than that, please feel free to let us know!
 Features | Using | Alternative
 --- | --- | ---
 API Develop | Typescript, NestJS
-Blog | Hugo |
+Blog | Next.js React |
 DNS | AliDNS, DNSPod |
-CDN | UpYun, Tencent Cloud |
+CDN | Tencent Cloud |
 Cloud Service Provider | Tencent Cloud
 Cloud Storage | Tencent Cloud |
 Code Coverage | codecov.io | 
-Communication | Slack, Zoom | Telegram
+Communication | Slack, Tencent Meeting | Telegram
 Continuous Integration | GitHub Action |
 Front End | Typescript, Sass, Webpack, Yarn, Redux, Rxjs, React
 Infrastructure | Kubernetes, Ubuntu, MySQL, PostgreSQL, Redis, Docker, Serverless
 Infrastructure as Code | Terrafrom, Ansible
 Source Code Control | GitHub | 
-Ticket Tracking | GitHub, Jira
+Ticket Tracking | GitHub, Teambition
 
 --- 
 # Find More
