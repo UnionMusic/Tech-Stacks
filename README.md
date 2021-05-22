@@ -1,6 +1,6 @@
 # The Tech Stacks that Union Music is using
 
-Last update: 2020 Nov
+Last update: 2021 May
 
 Here are the list of tech or services that we are using.
 
